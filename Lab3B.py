@@ -1,9 +1,4 @@
-# Class: CSE 1321L
-# Section: 01
-# Term: Fall 2025
-# Instructor: Michael Butler
-# Name: Giovanni Hines
-# Lab#: 3B
+
 
 Course1Hours = int(input("Course 1 hours: "))
 Course1Grade = int(input("Grade for course 1: "))
@@ -24,3 +19,4 @@ GPA = float(Quality4 + Quality3 + Quality1 + Quality2) / TotalHours
 print(f"Total hours: {TotalHours}")
 print(f"Total quality points: {TotalQualityPoints}")
 print(f"Your GPA for this semester is {round(float(GPA),2)}")
+
