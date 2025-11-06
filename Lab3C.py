@@ -1,9 +1,3 @@
-# Class: CSE 1321L
-# Section: 01
-# Term: Fall 2025
-# Instructor: Michael Butler
-# Name: Giovanni Hines
-# Lab#: 3A
 
 NumberOfSmall = int(input("Enter the number of small sandwiches: "))
 NumberOfMedium = int(input("Enter the number of medium sandwiches: "))
@@ -24,3 +18,4 @@ Seconds = float(TotalTime /60 - Minutes)
 seconds = int(Seconds * 60)
 print() #Gradescope was counting it wrong without this space
 print(f"Total cooking time is {Minutes} minutes and {seconds} seconds.")
+
