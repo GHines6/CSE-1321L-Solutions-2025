@@ -1,9 +1,3 @@
-# Class: CSE 1321L
-# Section: 01
-# Term: Fall 2025
-# Instructor: Michael Butler
-# Name: Giovanni Hines
-# Lab#: 5B
 
 print("[Factorial Calculator]")
 while True:
@@ -20,4 +14,5 @@ while True:
     print(f"{num}! is {factorial}")
     print()
     print("Program Terminated")
+
     break
