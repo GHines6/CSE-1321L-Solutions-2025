@@ -1,9 +1,3 @@
-# Class: CSE 1321L
-# Section: 01
-# Term: Fall 2025
-# Instructor: Michael Butler
-# Name: Giovanni Hines
-# Lab#: 6A
 
 x = 0
 while x == 0 :
@@ -34,6 +28,7 @@ while x == 0 :
         x = x + 1
     else:
         print("Invalid Choice")
+
 
 
 
